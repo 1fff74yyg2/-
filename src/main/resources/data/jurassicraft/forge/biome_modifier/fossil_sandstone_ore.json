@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_desert",
+  "features": "jurassicraft:fossil_sandstone_ore",
+  "step": "underground_ores"
+}

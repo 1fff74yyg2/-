@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jurassicraft:block/fossil/fossil_side_1_sandstone_normal",
+    "up": "jurassicraft:block/fossil/fossil_side_0_sandstone_normal",
+    "north": "jurassicraft:block/fossil/fossil_side_2_sandstone_normal",
+    "south": "jurassicraft:block/fossil/fossil_side_3_sandstone_normal",
+    "west": "jurassicraft:block/fossil/fossil_side_4_sandstone_normal",
+    "east": "jurassicraft:block/fossil/fossil_side_5_sandstone_normal",
+    "particle": "jurassicraft:block/fossil/fossil_side_0_sandstone_normal"
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "jurassicraft:item/creatures/dinosaurs/tyrannosaurus/tyrannosaurus_meat"
+    }
+}

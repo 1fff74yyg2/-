@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#jurassicraft:clay_fossil",
+  "features": "jurassicraft:fossil_clay_ore",
+  "step": "underground_ores"
+}

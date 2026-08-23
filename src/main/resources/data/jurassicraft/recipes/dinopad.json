@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "PIP",
+    "PPP"
+  ],
+  "key": {
+    "P": {"item": "minecraft:paper"},
+    "I": {"item": "minecraft:iron_ingot"}
+  },
+  "result": {"item": "jurassicraft:dinopad"}
+}

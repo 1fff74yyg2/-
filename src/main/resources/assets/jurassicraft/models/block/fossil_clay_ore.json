@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jurassicraft:block/fossil/fossil_side_1_hardened_clay",
+    "up": "jurassicraft:block/fossil/fossil_side_0_hardened_clay",
+    "north": "jurassicraft:block/fossil/fossil_side_2_hardened_clay",
+    "south": "jurassicraft:block/fossil/fossil_side_3_hardened_clay",
+    "west": "jurassicraft:block/fossil/fossil_side_4_hardened_clay",
+    "east": "jurassicraft:block/fossil/fossil_side_5_hardened_clay",
+    "particle": "jurassicraft:block/fossil/fossil_side_0_hardened_clay"
+  }
+}

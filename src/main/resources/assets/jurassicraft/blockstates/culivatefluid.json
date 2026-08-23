@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "level=0": {
+      "model": "jurassicraft:block/culivatefluid"
+    },
+    "level=1": {
+      "model": "jurassicraft:block/culivatefluid"
+    },
+    "level=2": {
+      "model": "jurassicraft:block/culivatefluid"
+    },
+    "level=3": {
+      "model": "jurassicraft:block/culivatefluid"
+    },
+    "level=4": {
+      "model": "jurassicraft:block/culivatefluid"
+    },
+    "level=5": {
+      "model": "jurassicraft:block/culivatefluid"
+    },
+    "level=6": {
+      "model": "jurassicraft:block/culivatefluid"
+    },
+    "level=7": {
+      "model": "jurassicraft:block/culivatefluid"
+    },
+    "level=8": {
+      "model": "jurassicraft:block/culivatefluid"
+    },
+    "level=9": {
+      "model": "jurassicraft:block/culivatefluid"
+    },
+    "level=10": {
+      "model": "jurassicraft:block/culivatefluid"
+    },
+    "level=11": {
+      "model": "jurassicraft:block/culivatefluid"
+    },
+    "level=12": {
+      "model": "jurassicraft:block/culivatefluid"
+    },
+    "level=13": {
+      "model": "jurassicraft:block/culivatefluid"
+    },
+    "level=14": {
+      "model": "jurassicraft:block/culivatefluid"
+    },
+    "level=15": {
+      "model": "jurassicraft:block/culivatefluid"
+    }
+  }
+}

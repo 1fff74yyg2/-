@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jurassicraft:block/fossil/fossil_side_1",
+    "up": "jurassicraft:block/fossil/fossil_side_0",
+    "north": "jurassicraft:block/fossil/fossil_side_2",
+    "south": "jurassicraft:block/fossil/fossil_side_3",
+    "west": "jurassicraft:block/fossil/fossil_side_4",
+    "east": "jurassicraft:block/fossil/fossil_side_5",
+    "particle": "jurassicraft:block/fossil/fossil_side_0"
+  }
+}

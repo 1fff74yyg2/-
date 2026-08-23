@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+issueTrackerURL="https://github.com/TimelessModdingTeam/JurassiCraft/issues"
+
+[[mods]]
+modId="jurassicraft"
+version="0.0.1"
+displayName="JurassiCraft"
+logoFile=""
+credits="JurassiCraft Team"
+authors="iLexiconn, TheLarsinator, Click_Me, Gegy1000, RafaMv, JTGhawk137"
+description="JurassiCraft is a mod made to bring prehistoric creatures to the world of Minecraft. It is inspired by Jurassic Park, but is not limited to all JP canon: as many creatures and features as possible will be added! Creatures are made Jurassic Park style, by obtaining fossils or amber, using the fossils or amber to create DNA, inserting the DNA into eggs, and hatching the eggs."
+
+[[dependencies.jurassicraft]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.jurassicraft]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,)"
+ordering="NONE"
+side="BOTH"
