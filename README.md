@@ -52,3 +52,11 @@ gradle idea
 ```
 
 Now open the workspace and voilà, you can start contributing!
+
+# License
+
+- Original JurassiCraft code, assets and name: **Timeless Modding Team - Minecraft Mod License v1.2** — see [LICENSE.md](LICENSE.md).
+- The Minecraft 1.20.1 port and everything changed for it: see [NOTICE.md](NOTICE.md).
+- The `license` field in `src/main/resources/META-INF/mods.toml` is Forge mod metadata shown in the
+  in-game mod list; it points at the license above and is not a separate grant of rights.
+
