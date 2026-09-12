@@ -1,6 +1,6 @@
 modLoader="javafml"
 loaderVersion="[47,)"
-license="Timeless Modding Team - Minecraft Mod License v1.2 (see LICENSE.md / NOTICE.md)"
+license="LGPL-2.1"
 issueTrackerURL="https://github.com/TimelessModdingTeam/JurassiCraft/issues"
 
 [[mods]]

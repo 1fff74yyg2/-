@@ -55,8 +55,10 @@ Now open the workspace and voilà, you can start contributing!
 
 # License
 
-- Original JurassiCraft code, assets and name: **Timeless Modding Team - Minecraft Mod License v1.2** — see [LICENSE.md](LICENSE.md).
-- The Minecraft 1.20.1 port and everything changed for it: see [NOTICE.md](NOTICE.md).
-- The `license` field in `src/main/resources/META-INF/mods.toml` is Forge mod metadata shown in the
-  in-game mod list; it points at the license above and is not a separate grant of rights.
+This project is licensed under the **GNU Lesser General Public License v2.1** - see [LICENSE.md](LICENSE.md).
 
+- It is based on JurassiCraft (Gegy/JurassiCraft2), which is licensed under the same LGPL-2.1.
+  All original credit belongs to the JurassiCraft authors and contributors.
+- What the Minecraft 1.20.1 port changed and which third-party components are used: see [NOTICE.md](NOTICE.md).
+- The `license` field in `src/main/resources/META-INF/mods.toml` is Forge mod metadata shown in the
+  in-game mod list.
